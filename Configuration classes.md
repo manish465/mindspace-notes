@@ -1,0 +1,1 @@
+Configuration classes are used to define and configure various [[Beans]] and [[components]] within the application. [[Spring Boot]] employs Java-based [[Configuration]] using [[Annotations]] such as `@Configuration` and `@Bean` to define [[Beans]] and their [[dependencies]].

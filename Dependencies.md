@@ -1,0 +1,1 @@
+- It refers to external libraries or modules that a project relies on to function properly. Dependencies provide pre-built functionality that can be used by the project without having to implement everything from scratch.

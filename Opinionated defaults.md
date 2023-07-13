@@ -1,0 +1,1 @@
+[[Spring Boot]] follows convention over [[Configuration]], which allows developer to write business logic over low level logics.

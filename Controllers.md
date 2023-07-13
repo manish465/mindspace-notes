@@ -1,0 +1,1 @@
+Controllers are responsible for handling incoming [[Requests]] and returning appropriate [[Response]]. They typically receive [[Requests]], process them, and invoke the necessary [[services]] or [[Business Logic]] to generate a [[response]].

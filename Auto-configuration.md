@@ -1,0 +1,1 @@
+[[Spring Boot]] automatically configures various [[Components]] based on the [[Dependencies]] it detects in the [[Classpath]]. It eliminates the need for explicit [[Configuration]], reducing development time and effort.

@@ -1,0 +1,1 @@
+[[Spring Boot]] is well suited for building [[Microservices]] based application. it provides features like embedded server, lightweight containers and seamless integration with cloud platforms.

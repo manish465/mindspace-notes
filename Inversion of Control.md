@@ -1,0 +1,1 @@
+Inversion of Control (IoC) container manages the lifecycle of Java objects and their [[Dependencies]]. It allows developers to decouple the [[Configuration]] and [[Component Wiring]], promoting loose coupling and easier maintenance.

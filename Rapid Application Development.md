@@ -1,0 +1,1 @@
+- [[Spring Boot]] eliminates the need for manual [[Configuration]] by providing its own default [[Configuration]].

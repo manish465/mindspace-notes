@@ -1,0 +1,4 @@
+- [[Auto-configuration]]
+- [[Starter dependencies]]
+- [[Embedded server]]
+- [[Cloud-native support]]

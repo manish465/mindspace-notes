@@ -1,0 +1,1 @@
+In the traditional approach, [[Component Wiring]] is defined in XML configuration files. XML elements, such as `<bean>`, are used to define the [[Beans]] ([[components]]) and their dependencies. The configuration file specifies how the [[Beans]] are instantiated, their properties set, and their relationships established.

@@ -1,0 +1,1 @@
+Java-based configuration allows [[Component Wiring]] using plain Java code. Configuration classes are written in Java and annotated with `@Configuration`. Beans and their relationships are defined using `@Bean` annotations. Java-based configuration provides a more type-safe and programmatic approach to wiring components.
