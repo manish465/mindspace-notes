@@ -1,0 +1,5 @@
+Embedded [[Load Balancing]] refers to the capability of a software component or system, such as an [[API Gateway]] or a service mesh, to internally manage the load balancing process without relying on an external load balancer. In this approach, the load balancing functionality is directly integrated into the software, and it takes responsibility for distributing incoming client requests across multiple backend servers or resources.
+
+Embedded Load Balancing is often preferred in cloud-native and microservices-based architectures where a lightweight and decentralized approach to load balancing is desired. It provides an effective solution for distributing traffic across multiple backend servers or resources while maintaining simplicity and flexibility in the overall system design.
+
+#LoadBalancing 

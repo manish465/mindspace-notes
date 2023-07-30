@@ -1,0 +1,3 @@
+- Social login, also known as social sign-in, is a specific use case of identity brokering where users are given the option to log in to an application or website using their social media accounts (such as Facebook, Google, Twitter, LinkedIn, etc.). Instead of creating a new account or remembering separate credentials for each application, users can choose to use their existing social media credentials for authentication.
+
+#Security 

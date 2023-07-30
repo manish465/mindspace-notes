@@ -1,0 +1,4 @@
+- Identity brokering, also known as identity federation, is a mechanism that allows an application or service to trust an external identity provider (IdP) to handle user authentication on its behalf. Instead of the application directly managing user credentials and authentication, it delegates this responsibility to the identity provider.
+- When a user attempts to log in to an application that supports identity brokering, the application redirects the user to the chosen identity provider's login page. The user then enters their credentials on the identity provider's site, and upon successful authentication, the identity provider issues a security token to the application. This token serves as proof of the user's authenticated identity.
+
+#Security 

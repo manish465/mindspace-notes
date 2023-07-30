@@ -2,4 +2,8 @@ The classpath is a parameter that specifies the locations where the JVM looks fo
 
 ### It can be manually set by using this command in terminal:
 
-##### `java -cp /path/to/myclasses:/path/to/mylib.jar MyApp`
+```
+java -cp /path/to/myclasses:/path/to/mylib.jar MyApp
+```
+
+#Java 

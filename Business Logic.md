@@ -11,3 +11,5 @@
 - [[Integration with External Systems]]
 
 In summary, business logic represents the specific rules, processes, and workflows that govern how an application functions to support a particular business domain.
+
+#BusinessLogic

@@ -1,0 +1,3 @@
+- User federation, also known as identity federation or federated identity management, is a concept and practice within identity and access management (IAM) that allows multiple organizations or systems to share user identity information securely. It enables users from one organization to access resources and services in another organization without the need to create separate user accounts in each system.
+
+#Security 

@@ -1,1 +1,0 @@
-Spring Boot integrates well with cloud-native technologies and platforms. It includes features for building cloud-ready applications, such as [[Auto-configuration]] for cloud services, [[distributed tracing]], [[service discovery]], and [[configuration management]]

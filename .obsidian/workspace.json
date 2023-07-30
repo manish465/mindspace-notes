@@ -1,39 +1,48 @@
 {
   "main": {
-    "id": "cb44b47cd6d9c1c8",
+    "id": "e705f1bf4f22bf0d",
     "type": "split",
     "children": [
       {
-        "id": "e4faa5bc5699524d",
+        "id": "62614b5bcd53ad77",
         "type": "tabs",
         "children": [
           {
-            "id": "72da4777cb2f7cf0",
+            "id": "5edf9a09b2afb030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annotations.md",
-                "mode": "source",
+                "file": "Annotation.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdec9a158d5c88ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "291b765973c2c529",
+    "id": "e2dd54ae77d69ce9",
     "type": "split",
     "children": [
       {
-        "id": "46b7bbb9dac3c441",
+        "id": "347b26a347749ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "1bb52e543e39642f",
+            "id": "ccf11c3e50997117",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +52,7 @@
             }
           },
           {
-            "id": "0e52f602cfeefa45",
+            "id": "88309a47b8231596",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,10 +67,18 @@
             }
           },
           {
-            "id": "7c5f46863692f2cc",
+            "id": "9bd58a7e081b71a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b25457474a9fdeb",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
               "state": {}
             }
           }
@@ -69,47 +86,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 281.5
   },
   "right": {
-    "id": "5ba44b37773b4bb8",
+    "id": "fda2fd201b3a1597",
     "type": "split",
     "children": [
       {
-        "id": "e1d7470c048e4f70",
+        "id": "af1dc74dd8fcc95a",
         "type": "tabs",
         "children": [
           {
-            "id": "2e433a85df06a865",
+            "id": "37260494b93d7449",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "77149d9b2439fa6c",
+            "id": "767b074d7f996869",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotations.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "551c81e6a2f4004d",
+            "id": "63fd12898c05958e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +135,19 @@
             }
           },
           {
-            "id": "1d4e711ba1925a9e",
+            "id": "bb8a958a1ce60a26",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Annotations.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,39 +156,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "gpt3-notes:GPT-3 Notes": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "72da4777cb2f7cf0",
+  "active": "cdec9a158d5c88ed",
   "lastOpenFiles": [
-    "Annotation-based configuration.md",
-    "Annotations.md",
-    "Controllers.md",
-    "Configuration classes.md",
-    "Configuration.md",
-    "Inversion of Control.md",
-    "Requests.md",
+    "Annotation.md",
+    "Spring.md",
+    "Spring MVC.md",
+    "Key Components and Concepts of Spring MVC.md",
     "Repositories.md",
-    "Rapid Application Development.md",
-    "Opinionated defaults.md",
-    "Models.md",
-    "Microservices architecture support.md",
-    "Java-based configuration.md",
-    "Integration with External Systems.md",
+    "Model.md",
+    "Key Characteristics of a Backend Service.md",
+    "Key Characteristics of Microservices.md",
+    "Inversion of Control.md",
+    "Key Concepts of Aspect-Oriented Programming.md",
+    "Common examples of cross-cutting concerns include.md",
+    "Some of the most common programming paradigms include.md",
+    "Service Discovery Workflow.md",
     "Filters and Interceptors.md",
-    "Embedded server.md",
-    "Dependencies.md",
-    "Decision-Making.md",
-    "Data Validation.md",
-    "Data Processing and Transformation.md",
-    "Components.md",
-    "Component Wiring.md",
-    "Cloud-native support.md",
-    "Classpath.md",
-    "Business Rules.md",
-    "Business Logic.md",
-    "Untitled.canvas",
-    "Spring Boot"
+    "cross-cutting concerns.md",
+    "Aspect-Oriented Programming.md",
+    "programming paradigm.md",
+    "Benefits of Aspect-Oriented Programming.md",
+    "Popular Aspect-Oriented Programming Frameworks.md",
+    "Benefits of Configuration Management in Spring Cloud.md",
+    "Spring Boot.md",
+    "Spring Boot Features.md",
+    "Configuration Management.md",
+    "Key Features and Concepts of Configuration Management in Spring Cloud.md",
+    "various load balancing algorithms.md",
+    "Dependency.md",
+    "AI&ML",
+    "SpringBoot"
   ]
 }
