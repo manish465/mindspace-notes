@@ -2,7 +2,7 @@ Cross-cutting concerns are aspects or functionalities in software development th
 
 These concerns "cut across" different modules or components, making them challenging to encapsulate within a single module or class.
 
-They often span across the entire application and are not related to the core [[business logic]] of individual components.
+They often span across the entire application and are not related to the core [[Business Logic]] of individual components.
 
 [[Common examples of cross-cutting concerns include]]
 

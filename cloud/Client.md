@@ -1,8 +1,8 @@
-In the context of computer networking and distributed systems, a client is a piece of software or a device that initiates a [[request]] for services or resources from another program or server.
+In the context of computer networking and distributed systems, a client is a piece of software or a device that initiates a [[Request]] for services or resources from another program or server.
 
 Examples of Clients:
 
-- Web Browsers: Web browsers (e.g., Google Chrome, Mozilla Firefox) act as clients when users [[request]] web pages or resources from web servers.
+- Web Browsers: Web browsers (e.g., Google Chrome, Mozilla Firefox) act as clients when users [[Request]] web pages or resources from web servers.
    
 - Email Clients: Email clients (e.g., Microsoft Outlook, Gmail) are used to access and manage emails from email servers.
    

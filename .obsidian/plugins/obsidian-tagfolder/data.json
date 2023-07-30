@@ -6,7 +6,7 @@
   "hideOnRootTags": "",
   "sortType": "DISPNAME_ASC",
   "sortExactFirst": false,
-  "sortTypeTag": "NAME_ASC",
+  "sortTypeTag": "ITEMS_DESC",
   "expandLimit": 0,
   "disableNestedTags": false,
   "hideItems": "NONE",
@@ -16,7 +16,7 @@
   "useTitle": true,
   "reduceNestedParent": true,
   "frontmatterKey": "title",
-  "useTagInfo": true,
+  "useTagInfo": false,
   "tagInfo": "pininfo.md",
   "mergeRedundantCombination": false,
   "useVirtualTag": false,
@@ -25,5 +25,5 @@
   "useMultiPaneList": false,
   "archiveTags": "",
   "disableNarrowingDown": true,
-  "expandUntaggedToRoot": false
+  "expandUntaggedToRoot": true
 }

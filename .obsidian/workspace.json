@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "62614b5bcd53ad77",
+        "id": "bef36901b128673f",
         "type": "tabs",
         "children": [
           {
-            "id": "5edf9a09b2afb030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annotation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdec9a158d5c88ed",
+            "id": "b35c37dbf6291cc3",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#Spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,34 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdec9a158d5c88ed",
+  "active": "b35c37dbf6291cc3",
   "lastOpenFiles": [
-    "Annotation.md",
-    "Spring.md",
-    "Spring MVC.md",
-    "Key Components and Concepts of Spring MVC.md",
-    "Repositories.md",
-    "Model.md",
-    "Key Characteristics of a Backend Service.md",
-    "Key Characteristics of Microservices.md",
-    "Inversion of Control.md",
-    "Key Concepts of Aspect-Oriented Programming.md",
-    "Common examples of cross-cutting concerns include.md",
-    "Some of the most common programming paradigms include.md",
-    "Service Discovery Workflow.md",
-    "Filters and Interceptors.md",
-    "cross-cutting concerns.md",
-    "Aspect-Oriented Programming.md",
-    "programming paradigm.md",
-    "Benefits of Aspect-Oriented Programming.md",
-    "Popular Aspect-Oriented Programming Frameworks.md",
-    "Benefits of Configuration Management in Spring Cloud.md",
-    "Spring Boot.md",
-    "Spring Boot Features.md",
-    "Configuration Management.md",
-    "Key Features and Concepts of Configuration Management in Spring Cloud.md",
-    "various load balancing algorithms.md",
-    "Dependency.md",
+    "Spring/Why Spring Boot.md",
+    "Spring/Views and Templates.md",
+    "cloud/various load balancing algorithms.md",
+    "security/User Fedration.md",
+    "Spring/Types of Spring Containers.md",
+    "Java/stream.md",
+    "Spring/Spring MVC.md",
+    "Spring/Spring Boot Features.md",
+    "Spring/Spring Boot.md",
+    "Spring/Spring.md",
+    "code/Some of the most common programming paradigms include.md",
+    "security/Social Login.md",
+    "security/Single Sign-On.md",
+    "security/Single Logout.md",
+    "Spring/Simple Bean Example.md",
+    "Spring/Services Layer.md",
+    "cloud/Service Discovery Workflow.md",
+    "cloud/Service Discovery.md",
+    "Spring/SecurityContextHolder.md",
+    "code/Security and Access Control.md",
+    "cloud/Response.md",
+    "cloud/Request.md",
+    "Spring/Repositories.md",
+    "code/programming paradigm.md",
+    "Spring/PreAuthorize.md",
+    "cloud/Popular Service Discovery Tools and Protocols.md",
+    "security",
+    "code",
+    "cloud",
+    "Java",
+    "Spring",
+    "Untitled.canvas",
     "AI&ML",
     "SpringBoot"
   ]
