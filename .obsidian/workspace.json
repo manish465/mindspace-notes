@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bef36901b128673f",
+        "id": "0e533d54bcb1a0e1",
         "type": "tabs",
         "children": [
           {
-            "id": "b35c37dbf6291cc3",
+            "id": "20fa0ea82a948afa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design-patten/Strategy Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feb2ea7cb4ddaa65",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Spring",
+                "query": "tag:#design-pattern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,34 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b35c37dbf6291cc3",
+  "active": "feb2ea7cb4ddaa65",
   "lastOpenFiles": [
+    "design-patten/Strategy Design Pattern.md",
+    "cloud/various load balancing algorithms.md",
+    "design-patten/Here is an example in Java to illustrate the Interface Segregation Principle.md",
+    "design-patten/Here is an example to illustrate the Open and Closed Principle.md",
+    "design-patten/Single Responsibility Principle.md",
+    "design-patten/SRP Example 2 Employee Class.md",
+    "design-patten/SRP Example 1 TextEditor Class.md",
+    "design-patten/Abstractions Should Not Depend on Details.md",
+    "design-patten/Open and Closed Principle.md",
+    "design-patten/Here is a simple example in Java to illustrate the Liskov Substitution Principle.md",
+    "design-patten/Dependency Inversion Principle.md",
+    "design-patten/High-Level Modules Should Not Depend on Low-Level Modules.md",
+    "design-patten/SOLID Principles.md",
+    "design-patten/Observer Design Pattern.md",
+    "design-patten/Liskov Substitution Principle.md",
+    "design-patten/Interface Segregation Principle.md",
+    "design-patten/Here's an example in Java to illustrate the Dependency Inversion Principle.md",
+    "design-patten/Example 2 using vehicle.md",
+    "design-patten",
+    "New folder",
+    "Single Responsibility Principle.md",
+    "Low Leve Design.md",
+    "DSAQuestion/Top K Frequent Elements.md",
+    "DSAQuestion",
     "Spring/Why Spring Boot.md",
     "Spring/Views and Templates.md",
-    "cloud/various load balancing algorithms.md",
     "security/User Fedration.md",
     "Spring/Types of Spring Containers.md",
     "Java/stream.md",
-    "Spring/Spring MVC.md",
-    "Spring/Spring Boot Features.md",
-    "Spring/Spring Boot.md",
-    "Spring/Spring.md",
-    "code/Some of the most common programming paradigms include.md",
-    "security/Social Login.md",
-    "security/Single Sign-On.md",
-    "security/Single Logout.md",
-    "Spring/Simple Bean Example.md",
-    "Spring/Services Layer.md",
-    "cloud/Service Discovery Workflow.md",
-    "cloud/Service Discovery.md",
-    "Spring/SecurityContextHolder.md",
-    "code/Security and Access Control.md",
-    "cloud/Response.md",
-    "cloud/Request.md",
-    "Spring/Repositories.md",
-    "code/programming paradigm.md",
-    "Spring/PreAuthorize.md",
-    "cloud/Popular Service Discovery Tools and Protocols.md",
     "security",
     "code",
     "cloud",

@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "tag:#design-pattern",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
+    },
+    {
+      "query": "tag:#Question  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Spring  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Microservice  ",
+      "color": {
+        "a": 1,
+        "rgb": 14776371
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1.4015625,
-  "lineSizeMultiplier": 0.533854166666667,
-  "collapse-forces": false,
-  "centerStrength": 0.119791666666667,
-  "repelStrength": 6.45833333333333,
-  "linkStrength": 0.21875,
-  "linkDistance": 187,
-  "scale": 0.7514342322277677,
-  "close": true
+  "nodeSizeMultiplier": 2.06510416666667,
+  "lineSizeMultiplier": 0.7890625,
+  "collapse-forces": true,
+  "centerStrength": 0.0885416666666667,
+  "repelStrength": 10.4166666666667,
+  "linkStrength": 0.239583333333333,
+  "linkDistance": 341,
+  "scale": 0.2730418119374936,
+  "close": false
 }
