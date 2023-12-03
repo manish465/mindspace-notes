@@ -1,6 +1,6 @@
 Here's an example with an `Employee` class in Java:
 
-```
+```Java
 public class Employee {
     private String name;
     private int employeeId;
@@ -26,7 +26,7 @@ public class Employee {
 
 To adhere to the [[Single Responsibility Principle|SRP]], we can separate responsibilities into distinct classes:
 
-```
+```Java
 public class Employee {
     private String name;
     private int employeeId;

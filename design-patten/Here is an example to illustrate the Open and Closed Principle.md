@@ -1,6 +1,6 @@
 Suppose you have a system that handles various shapes, such as circles, rectangles, and triangles. You initially implement an area calculation method like this:
 
-```
+```Java
 class Circle {
     double radius;
     
@@ -32,7 +32,7 @@ At some point, you decide to add support for calculating the area of triangles. 
 
 To adhere to the Open/Closed Principle, you would create an interface or an abstract class representing the shape, and then create new classes that implement this interface to handle different shapes. You can also use a strategy pattern or dependency injection to extend the functionality without modifying the existing code:
 
-```
+```Java
 interface Shape {
     double calculateArea();
 }

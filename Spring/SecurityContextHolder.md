@@ -3,7 +3,7 @@ In Spring Security, SecurityContextHolder is a class that provides access to the
 It is a static holder for the [[SecurityContext]], which contains the user's authentication information.
 
 
-```
+```Java
 SecurityContextHolder.getContext().getAuthentication()
 ```
 
@@ -11,7 +11,7 @@ Above expression used to retrieve the current Authentication object from the Sec
 
 Authentication object represents the current user's security-related information after they have been authenticated.
 
-```
+```Java
 SecurityContextHolder.getContext().getAuthentication() == null
 ```
 

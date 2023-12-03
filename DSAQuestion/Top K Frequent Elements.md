@@ -2,7 +2,7 @@ Question link : [Top K Frequent Elements - LeetCode](https://leetcode.com/proble
 
 ### Question:
 Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_. You may return the answer in **any order**.
-```
+```Java
 Example 1:
 
 Input: nums = [1,1,1,2,2,3], k = 2
@@ -30,7 +30,7 @@ Output: [1]
 
 ### Code:
 
-```
+```Java
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         Map<Integer,Integer> freq = new HashMap<>();

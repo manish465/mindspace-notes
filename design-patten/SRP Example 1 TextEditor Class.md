@@ -1,6 +1,6 @@
 Suppose we are working with a `TextEditor` class in Java that violates the [[Single Responsibility Principle|SRP]]:
 
-```
+```Java
 public class TextEditor {
     public void openFile(String fileName) {
         // Code to open a file
@@ -26,7 +26,7 @@ public class TextEditor {
 
 To adhere to the [[Single Responsibility Principle|SRP]], we can split the responsibilities into separate classes:
 
-```
+```Java
 public class FileHandler {
     public void openFile(String fileName) {
         // Code to open a file

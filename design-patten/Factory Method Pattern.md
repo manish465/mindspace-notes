@@ -2,7 +2,7 @@ The Factory Method Pattern is a [[creational design pattern]]
 
 Defines an interface for creating an object, but leaves the choice of its type to the subclasses, creating an instance of one of several possible classes.
 
-```
+```Java
 // Step 1: Product Interface
 interface Animal {
     void makeSound();

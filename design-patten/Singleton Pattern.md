@@ -2,7 +2,7 @@ The Singleton Pattern is a [[creational design pattern]] that ensures a class ha
 
 It is often used when exactly one object is needed to coordinate actions across the system, such as a configuration manager, logging service, or database connection pool.
 
-```
+```Java
 public class Singleton {
 
     // Step 1: Private static instance

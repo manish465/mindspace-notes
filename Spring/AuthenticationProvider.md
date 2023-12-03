@@ -4,7 +4,7 @@ The `AuthenticationManager` receives a request from the HTTP filter layer and 
 
 #Example :
 
-```
+```Java
 @Bean
     public AuthenticationProvider authenticationProvider(){
         DaoAuthenticationProvider authenticationProvider=new DaoAuthenticationProvider();

@@ -11,8 +11,12 @@
             "id": "61060764a296a2ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DSAQuestion/Top K Frequent Elements.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -56,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "```",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSAQuestion/Top K Frequent Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSAQuestion/Top K Frequent Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSAQuestion/Top K Frequent Elements.md"
+              }
             }
           }
         ]
@@ -160,32 +169,32 @@
   },
   "active": "61060764a296a2ec",
   "lastOpenFiles": [
-    "DSAQuestion/Top K Frequent Elements.md",
-    "design-patten/Builder Pattern.md",
-    "design-patten/Singleton Pattern.md",
-    "design-patten/Observer Design Pattern.md",
-    "design-patten/Open and Closed Principle.md",
-    "design-patten/Simple Factory Pattern.md",
-    "design-patten/Single Responsibility Principle.md",
-    "design-patten/SOLID Principles.md",
-    "design-patten/SRP Example 1 TextEditor Class.md",
+    "Java/stream.md",
     "design-patten/SRP Example 2 Employee Class.md",
-    "design-patten/Strategy Design Pattern.md",
-    "design-patten/Liskov Substitution Principle.md",
-    "design-patten/Interface Segregation Principle.md",
-    "design-patten/High-Level Modules Should Not Depend on Low-Level Modules.md",
+    "design-patten/SRP Example 1 TextEditor Class.md",
+    "design-patten/Singleton Pattern.md",
+    "design-patten/Simple Factory Pattern.md",
+    "Spring/Simple Bean Example.md",
+    "Spring/SecurityContextHolder.md",
+    "design-patten/Observer Design Pattern.md",
+    "Java/Interface.md",
     "design-patten/Here's an example in Java to illustrate the Dependency Inversion Principle.md",
     "design-patten/Here is an example to illustrate the Open and Closed Principle.md",
     "design-patten/Here is an example in Java to illustrate the Interface Segregation Principle.md",
     "design-patten/Here is a simple example in Java to illustrate the Liskov Substitution Principle.md",
     "design-patten/Factory Method Pattern.md",
-    "design-patten/Factory Design Pattern.md",
     "design-patten/Example 2 using vehicle.md",
-    "design-patten/Dependency Inversion Principle.md",
-    "design-patten/Abstractions Should Not Depend on Details.md",
+    "Java/Classpath.md",
+    "Spring/AuthenticationProvider.md",
     "design-patten/Abstract Factory Pattern.md",
-    "creational design pattern.md",
-    "cloud/various load balancing algorithms.md",
+    "design-patten/Strategy Design Pattern.md",
+    "design-patten/SOLID Principles.md",
+    "design-patten/Interface Segregation Principle.md",
+    "DSAQuestion/Top K Frequent Elements.md",
+    "design-patten/Builder Pattern.md",
+    "design-patten/Open and Closed Principle.md",
+    "design-patten/Single Responsibility Principle.md",
+    "design-patten/Liskov Substitution Principle.md",
     "design-patten",
     "New folder",
     "DSAQuestion",

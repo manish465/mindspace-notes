@@ -1,6 +1,6 @@
 Below has the code for `Vehicle` which returns if the vehicle has engine and number of wheels
 
-```
+```Java
 public class Vehicle {  
     public Integer getNumberOfWheels(){  
         return 2;  
@@ -46,7 +46,7 @@ the problem here is that `Bicycle` is `@Override` the `hasEngine()` function and
 
 To fix it we can create new class `EngineVehicle` which will inherit `Vehicle` and `MotorCycle` and `Car` will inherit `EngineVehicle` 
 
-```
+```Java
 public class Vehicle {  
     public Integer getNumberOfWheels(){  
         return 2;  

@@ -2,7 +2,7 @@ The Abstract Factory Pattern is a [[creational design pattern]]
 
 Provides an interface for creating families of related or dependent objects without specifying their concrete classes. It is an extension of the [[Factory Method Pattern]], where a family of related or dependent products is created without specifying their concrete classes.
 
-```
+```Java
 // Step 1: AbstractProduct Interfaces (Shape, Color)
 interface Shape {
     void draw();

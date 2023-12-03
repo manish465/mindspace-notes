@@ -1,4 +1,4 @@
-```
+```Java
 // High-level module (business logic)
 class CustomerService {
     private CustomerRepository customerRepository;
@@ -32,7 +32,7 @@ In the example above, the `CustomerService` high-level module depends directly o
 
 To adhere to the DIP, we can introduce an interface (`CustomerRepositoryInterface`) to abstract the data access layer:
 
-```
+```Java
 interface CustomerRepositoryInterface {
     void save(Customer customer);
 }

@@ -1,6 +1,6 @@
 The Strategy Design Pattern is [[behavioral design patten]] that allows you to define a family of algorithm, encapsulation each of them, and make them interchangeable. The pattern lets you choose the appropriate algorithm to use at runtime. It's particularly useful when you have multiple ways to do a particular task and want decouple the client from the implementation detail of that algorithm.
 
-```
+```Java
 // Step 1: Define the Strategy Interface
 interface PaymentStrategy {
     void pay(int amount);

@@ -5,7 +5,7 @@ An interface is declared using the `interface` keyword, and it contains method s
 #Example :
 
 
-```
+```Java
 public interface MyInterface {
     // Method signatures (no method bodies)
     void method1();

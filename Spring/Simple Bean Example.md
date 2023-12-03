@@ -4,7 +4,7 @@ When you define a [[Bean]], you're essentially telling [[Spring]] that you want 
 
 Imagine you have a `Car` class, and you want to use it in your [[Spring]] application. To make it a [[Bean]], you can annotate it with `@Component`:
 
-```
+```Java
 @Component
 public class Car {
     // Class implementation
@@ -15,7 +15,7 @@ By doing this, Spring knows that the `Car` class should be managed as a [[Bean]]
 
 What's cool is that you can also define [[Dependencies]] between [[Bean]]s. For example, if the `Car` class needs a `Engine` object to work, you can define the `Engine` bean as well and let [[Spring]] handle the [[Dependency Injection]]:
 
-```
+```Java
 @Component
 public class Car {
     private Engine engine;

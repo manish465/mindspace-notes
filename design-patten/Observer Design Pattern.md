@@ -2,7 +2,7 @@ The Observer Design Pattern is a [[behavioral design patten]].
 
 Where an object, known as the subject, maintains a list of its dependents, called observers, that are notified of any changes in the subject's state. This patten is useful when you have a one to many relationship between objects, and you want to notify multiple objects about changes without coupling them tightly.
 
-```
+```Java
 import java.util.ArrayList;
 import java.util.List;
 

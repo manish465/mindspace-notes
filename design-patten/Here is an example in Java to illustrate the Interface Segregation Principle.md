@@ -1,4 +1,4 @@
-```
+```Java
 // This is a monolithic interface that violates the ISP.
 interface Worker {
     void work();
@@ -39,7 +39,7 @@ In the example above, the `Worker` interface includes three methods: `work`, `ea
 
 To adhere to the ISP, we should create more specialized interfaces, each focusing on a specific aspect of behavior:
 
-```
+```Java
 interface Workable {
     void work();
 }
