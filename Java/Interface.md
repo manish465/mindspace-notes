@@ -2,9 +2,6 @@ In Java, an interface is a reference type that defines a contract or a set of ab
 
 An interface is declared using the `interface` keyword, and it contains method signatures (without method bodies) and, optionally, constants. All methods in an interface are implicitly public and abstract, meaning they have no implementation and must be overridden by classes that implement the interface.
 
-#Example :
-
-
 ```Java
 public interface MyInterface {
     // Method signatures (no method bodies)

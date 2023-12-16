@@ -6,4 +6,4 @@ In essence, it encourages the creation of smaller and more specialized interface
 
 [[Here is an example in Java to illustrate the Interface Segregation Principle]]
 
-#design-pattern 
+#design-pattern #SOLID 

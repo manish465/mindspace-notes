@@ -9,4 +9,4 @@ In simpler terms, if a class is a subtype (i.e., a derived or child class) of a 
 [[Here is a simple example in Java to illustrate the Liskov Substitution Principle]]
 [[Example 2 using vehicle]]
 
-#design-pattern 
+#design-pattern #SOLID 

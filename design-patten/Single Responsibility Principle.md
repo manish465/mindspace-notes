@@ -5,4 +5,4 @@ In other words, a class should have a single, well defined responsibility or con
 [[SRP Example 1 TextEditor Class]]
 [[SRP Example 2 Employee Class]]
 
-#design-pattern 
+#design-pattern #SOLID 

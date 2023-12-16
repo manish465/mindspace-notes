@@ -38,4 +38,4 @@ In this example, Spring will automatically create an instance of the `Engine` be
 
 So, in summary, a [[Bean]] in [[Spring]] is like a managed object or [[Component]] that [[Spring]] creates, configures, and provides for you. It simplifies the process of creating and connecting objects in your application, promoting flexibility, modularity, and easier development.
 
-#Spring #Example 
+#Spring 

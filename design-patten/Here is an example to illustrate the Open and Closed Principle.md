@@ -80,4 +80,4 @@ class Triangle implements Shape {
 
 With this design, you can add new shape classes without modifying the existing ones, thus adhering to the Open/Closed Principle. This approach makes it easier to extend the system's functionality and maintain the code.
 
-#design-pattern 
+#design-pattern #SOLID 

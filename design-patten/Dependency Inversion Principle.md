@@ -11,4 +11,4 @@ The Dependency Inversion Principle consists of two main principles:
 
 [[Here's an example in Java to illustrate the Dependency Inversion Principle]]
 
-#design-pattern 
+#design-pattern #SOLID 

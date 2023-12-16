@@ -54,4 +54,4 @@ public class BenefitsManager {
 
 With this separation, each class has a single responsibility, improving code maintainability and reducing the risk of errors when changes are made.
 
-#design-pattern 
+#design-pattern #SOLID 

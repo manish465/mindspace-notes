@@ -52,4 +52,4 @@ public class TextFormatter {
 
 Now, each class has a single responsibility, making the code more maintainable.
 
-#design-pattern 
+#design-pattern #SOLID 

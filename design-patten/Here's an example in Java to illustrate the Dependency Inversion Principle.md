@@ -60,4 +60,4 @@ class DatabaseCustomerRepository implements CustomerRepositoryInterface {
 
 Now, the high-level module (`CustomerService`) depends on the abstraction (`CustomerRepositoryInterface`), and the low-level module (`DatabaseCustomerRepository`) implements the details. This design adheres to the Dependency Inversion Principle, allowing you to swap out different implementations of `CustomerRepositoryInterface` without changing the high-level module. It promotes flexibility and maintainability in the codebase.
 
-#design-pattern 
+#design-pattern #SOLID 

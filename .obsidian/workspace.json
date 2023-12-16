@@ -8,25 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61060764a296a2ec",
+            "id": "5872a26676f6fb74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSAQuestion/Top K Frequent Elements.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "feb2ea7cb4ddaa65",
+            "id": "a1997bfedd329be6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design-patten/Builder Pattern.md",
+                "file": "design-patten/Patterns.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -60,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "```",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSAQuestion/Top K Frequent Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSAQuestion/Top K Frequent Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSAQuestion/Top K Frequent Elements.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,34 +160,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61060764a296a2ec",
+  "active": "5872a26676f6fb74",
   "lastOpenFiles": [
-    "Java/stream.md",
-    "design-patten/SRP Example 2 Employee Class.md",
-    "design-patten/SRP Example 1 TextEditor Class.md",
-    "design-patten/Singleton Pattern.md",
-    "design-patten/Simple Factory Pattern.md",
-    "Spring/Simple Bean Example.md",
-    "Spring/SecurityContextHolder.md",
-    "design-patten/Observer Design Pattern.md",
-    "Java/Interface.md",
-    "design-patten/Here's an example in Java to illustrate the Dependency Inversion Principle.md",
-    "design-patten/Here is an example to illustrate the Open and Closed Principle.md",
-    "design-patten/Here is an example in Java to illustrate the Interface Segregation Principle.md",
-    "design-patten/Here is a simple example in Java to illustrate the Liskov Substitution Principle.md",
-    "design-patten/Factory Method Pattern.md",
+    "design-patten/Strategy.md",
+    "design-patten/Patterns.md",
+    "design-patten/Singleton.md",
+    "design-patten/Factory Method.md",
+    "design-patten/Abstract Factory.md",
+    "design-patten/Prototype.md",
+    "design-patten/Builder.md",
+    "design-patten/Adapter.md",
+    "design-patten/Decorator.md",
+    "design-patten/Facade.md",
+    "design-patten/Composite.md",
+    "design-patten/Proxy.md",
+    "design-patten/Observer.md",
+    "design-patten/Template Method.md",
+    "design-patten/Iterator.md",
+    "design-patten/Command.md",
+    "design-patten/State.md",
+    "design-patten/Chain of Responsibility.md",
+    "design-patten/MVC.md",
+    "design-patten/MVP.md",
+    "design-patten/Abstractions Should Not Depend on Details.md",
+    "design-patten/High-Level Modules Should Not Depend on Low-Level Modules.md",
     "design-patten/Example 2 using vehicle.md",
-    "Java/Classpath.md",
-    "Spring/AuthenticationProvider.md",
-    "design-patten/Abstract Factory Pattern.md",
-    "design-patten/Strategy Design Pattern.md",
-    "design-patten/SOLID Principles.md",
-    "design-patten/Interface Segregation Principle.md",
-    "DSAQuestion/Top K Frequent Elements.md",
-    "design-patten/Builder Pattern.md",
-    "design-patten/Open and Closed Principle.md",
-    "design-patten/Single Responsibility Principle.md",
-    "design-patten/Liskov Substitution Principle.md",
+    "Java/Annotation.md",
+    "Spring/Simple Bean Example.md",
+    "Java/stream.md",
     "design-patten",
     "New folder",
     "DSAQuestion",

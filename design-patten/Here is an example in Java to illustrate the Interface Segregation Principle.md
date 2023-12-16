@@ -75,4 +75,4 @@ class Manager implements Workable, Sleepable {
 
 Now, the `Programmer` and `Manager` classes implement only the interfaces and methods relevant to their specific responsibilities. This adheres to the Interface Segregation Principle and promotes more maintainable and flexible code, as clients are not burdened with irrelevant methods from the interface.
 
-#design-pattern 
+#design-pattern #SOLID 

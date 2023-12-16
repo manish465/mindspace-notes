@@ -18,4 +18,4 @@ In this example, `Penguin` is a subtype of `Bird`, and it correctly overrides th
 
 Adhering to the Liskov Substitution Principle leads to more robust and maintainable object-oriented code by ensuring that inheritance hierarchies respect the expected behavior and contracts. It helps prevent subtle bugs and surprises when using derived classes in place of their base classes.
 
-#design-pattern 
+#design-pattern #SOLID 

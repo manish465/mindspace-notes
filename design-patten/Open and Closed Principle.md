@@ -4,4 +4,4 @@ In other words, once a class is or module is written and working correctly, it s
 
 [[Here is an example to illustrate the Open and Closed Principle]]
 
-#design-pattern 
+#design-pattern #SOLID 

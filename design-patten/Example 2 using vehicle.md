@@ -88,4 +88,4 @@ public class Main {
 
 Now the code will not break and LSP is satisfied here.
 
-#design-pattern 
+#design-pattern #SOLID 
